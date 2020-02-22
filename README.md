@@ -1,4 +1,4 @@
-# **Jin's portfolio** 
+# **Jin's ortfolio** 
 Jin's Stackoverflow :  https://stackoverflow.com/users/10504469/jin-lee
 
 ## Education
