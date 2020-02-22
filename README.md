@@ -1,4 +1,4 @@
-# Jin's portfolio 
+# **Jin's portfolio** 
 
 ## Education
 - 자바(Java) 개발자 과정 수료 (800시간)
