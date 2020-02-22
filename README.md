@@ -28,4 +28,4 @@ Jin's Stackoverflow :  https://stackoverflow.com/users/10504469/jin-lee
    - 클라우드 상에서 엘라스틱서치와 카프카를 프로덕션 레벨의 클러스터로 구축 
    - Devops (CI/CD) 도구들 분석 및 테스트 (개발 생산성 향상을 위해)
 5. Docker image 빌드 연구
-   - 기존의 monolithic한 회사 애플리케이션을 microservice화 한뒤 컨테이너화 하기 위해서. 
+   - 기존의 monolithic한 회사 애플리케이션을 마이크로서비스화 한 뒤 컨테이너화 하기 위해서. 
