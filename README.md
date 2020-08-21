@@ -12,8 +12,8 @@ Jin's Open Source Engineering Blog : https://cookiethecat2020.blogspot.com/
 - 정보처리 기사
 - 정보보안 기사 필기 합격(2019)
 - 아파치 카프카 개발자 자격증 (CCDAK)
-- Microsoft 클라우드 자격증 (AZ-900) 
 - Google Cloud Certified - Professional Cloud Architect 
+- Microsoft 클라우드 자격증 (AZ-900) 
 
 ## Project (2020. 03 ~    )
 1. GA 데이터 --> Dataprep, Dataflow ---> 빅쿼리   ----> ML   파이프라인 구축 및 테스트 운영 
