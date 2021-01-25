@@ -1,0 +1,26 @@
+대량의 데이터 처리/분석을 위한 데이터 플래폼 설계/구축/운영  (GCP 사용) 
+실시간 처리 데이터 파이프라인 구축/운영
+
+엘라스틱 스택과 카프카를 사용한 모니터링 시스템 설계/구축/운영
+수집된 로그/메트릭 데이터를 시각화하는 플랫폼 구축 
+
+엘라스틱 스택과 카프카를 사용한 보안관제 시스템(SIEM) 설계/구축/운영
+
+DW (빅쿼리, 스노우플레이크) 교육/강의/컨설팅 
+
+카프카를 이용한 데이터 파이프라인 연구 (카프카 커넥터) 
+
+GA 데이터 -> 빅쿼리 -> 머신러닝 
+
+SK , 11번가, 현대 오토에버  상대로 카프카 컨설팅 
+
+
+사용한 모니터링/시각화 솔루션 - Elastic Stack, Grafana, Datadog, Data Studio 
+사용 기술 : kafka, kubernetes, terraform, 
+ETL 툴 : Dataflow, Logstash 
+
+개인적 연구 : 클라우드 서비스를 이용한 CI/CD (Devops) 
+IaC :  테라폼(Terraform) 분석
+Kubernetes 연구/분석 
+
+여러 오픈 소스 사용 / 연구  -  LDAP, Flutter, Kubernetes, Kafka, Terraform, Elastic Stack, Grafana
