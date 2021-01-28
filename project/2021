@@ -12,8 +12,6 @@ DW (빅쿼리, 스노우플레이크) 교육/강의/컨설팅
 
 GA 데이터 -> 빅쿼리 -> 머신러닝 
 
-SK , 11번가, 현대 오토에버  상대로 카프카 컨설팅 
-
 
 사용한 모니터링/시각화 솔루션 - Elastic Stack, Grafana, Datadog, Data Studio 
 사용 기술 : kafka, kubernetes, terraform, 
