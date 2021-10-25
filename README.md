@@ -16,6 +16,7 @@ Jin's Engineering Blog : https://cookiethecat2020.blogspot.com/
 - Microsoft 클라우드 자격증 (AZ-900) 
 
 ## Project (2020. 03 ~  2021. 02  ) 
+**아래 프로젝트는 모두 혼자서 설계/구축/운영함.**
 1. GA 데이터 --> Dataprep, Dataflow ---> 빅쿼리   ----> ML & 시각화   파이프라인 연구 
 2. 구글 클라우드 서비스 연구 (구글 클라우드 아키텍트 자격증 취득)
 3. 빅쿼리, BQML, 머신러닝 연구
