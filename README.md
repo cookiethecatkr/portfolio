@@ -25,7 +25,7 @@ Jin's Engineering Blog : https://cookiethecat2020.blogspot.com/
 6. Grafana 와 Datadog을 이용한 클라우드 로그/메트릭 시각화 연구
 
 ## Project (2019. 01 ~ 2020. 02)
-**아래 프로젝트는 모두 혼자서 설계/구축/운영함.**
+**아래 프로젝트는 모두 혼자서 설계/구축/테스트운영함.**
 1. ELKK 모니터링 시스템 
    - LDAP 서버의 로그 파일과 메트릭 정보를 수집하여 카프카로 보내고 로그스태시에서 필터/가공하여 엘라스틱서치에 저장 후 키바나로 시각화 
    - 사용 스택 : Filebeat, Metricbeat, Kafka, Zookeeper, Logstash, Elasticsearch, Kibana
