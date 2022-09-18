@@ -1,8 +1,9 @@
 # **Jin's Portfolio** 
 Jin's Photography : https://www.shutterstock.com/g/jinlee2022?sort=newest  <br/>
+Jin's YouTube Channel : https://www.youtube.com/channel/UCHXFo0QdaXmrQKYgB6CzBHw <br>
 Jin's Stackoverflow :  https://stackoverflow.com/users/10504469/jin-lee <br/>
 Jin's Engineering Blog : https://cookiethecat2020.blogspot.com/  <br/>
-Jin's YouTube Channel : https://www.youtube.com/channel/UCHXFo0QdaXmrQKYgB6CzBHw
+
 
 ## Education
 - 자바(Java) 개발자 과정 수료 (800시간)
